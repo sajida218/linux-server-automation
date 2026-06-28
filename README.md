@@ -66,7 +66,7 @@ Sajida shaik
 
 ### Nginx Service Status
 
-![Nginx Status](screenshots/03-nginx-status.png)
+![Nginx Status](screenshots/03-nginx-running.png)
 
 ### Hosted Web Page
 
@@ -74,4 +74,4 @@ Sajida shaik
 
 ### Generated HTML File
 
-![HTML Output](screenshots/05-html-output.png)
+![HTML Output](screenshots/05-html-file.png)
