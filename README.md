@@ -53,3 +53,22 @@ linux-server-automation/
 ## Author
 
 Sajida shaik
+
+
+## Screenshots
+
+### Script Execution
+
+![Script Execution](screenshots/01-script-execution.png)
+
+### Nginx Service Status
+
+![Nginx Status](screenshots/02-nginx-status.png)
+
+### Hosted Web Page
+
+![Website](screenshots/03-webpage.png)
+
+### Generated HTML File
+
+![HTML Output](screenshots/04-html-output.png)
