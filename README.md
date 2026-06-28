@@ -56,19 +56,22 @@ Sajida shaik
 
 
 ## Screenshots
+### project Structure
+
+![Script Execution](screenshots/01-project-files.png)
 
 ### Script Execution
 
-![Script Execution](screenshots/01-script-execution.png)
+![Script Execution](screenshots/02-script-execution.png)
 
 ### Nginx Service Status
 
-![Nginx Status](screenshots/02-nginx-status.png)
+![Nginx Status](screenshots/03-nginx-status.png)
 
 ### Hosted Web Page
 
-![Website](screenshots/03-webpage.png)
+![Website](screenshots/04-webpage.png)
 
 ### Generated HTML File
 
-![HTML Output](screenshots/04-html-output.png)
+![HTML Output](screenshots/05-html-output.png)
